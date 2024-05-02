@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-![View Image](./public/images/screenshot.png)
+![View Image](./images/screenshot.png)
 
 ### Links
 
