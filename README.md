@@ -20,9 +20,6 @@
 - Live Site URL: [https://christinelinster.github.io/fm-qr-code/](https://christinelinster.github.io/fm-qr-code/)
 
 ## My process
-- After viewing the design file, I first laid out the skeleton structure in my index html file
-- I created my css file and listed out all the relevant design components including font stlyes, font sizes, colours, and the dimensions of the design 
-- Starting with the higher-level components, I structured the body and container to the appropriate style then added styling to the inner elements 
 
 ### Built with
 
