@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: [https://github.com/christinelinster/fm-qr-code]()
-- Live Site URL: [https://christinelinster.github.io/fm-qr-code/]()
+- Solution URL: [https://github.com/christinelinster/fm-qr-code](https://github.com/christinelinster/fm-qr-code)
+- Live Site URL: [https://christinelinster.github.io/fm-qr-code/](https://christinelinster.github.io/fm-qr-code/)
 
 ## My process
 - After viewing the design file, I first laid out the skeleton structure in my index html file
