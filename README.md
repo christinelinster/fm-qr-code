@@ -12,12 +12,12 @@
 
 ### Screenshot
 
-![](./public/images/screenshot.png)
+![View Image](./public/images/screenshot.png)
 
 ### Links
 
 - Solution URL: [View Solution](https://github.com/christinelinster/fm-qr-code)
-- Live Site URL: [View Live Site](https://your-live-site-url.com)
+- Live Site URL: [View Live Site](https://christinelinster.github.io/fm-qr-code/)
 
 ## My process
 - After viewing the design file, I first laid out the skeleton structure in my index html file
